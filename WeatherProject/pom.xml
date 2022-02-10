@@ -22,7 +22,7 @@
 		<spring-core-version>4.2.5.RELEASE</spring-core-version>
 		<spring-security-version>4.0.4.RELEASE</spring-security-version>
 		<!-- hibernate-version>4.3.11.Final</hibernate-version-->
-		<hibernate-version>5.3.1.Final</hibernate-version>
+		<hibernate-version>5.4.24.Final</hibernate-version>
 		<jstl-version>1.2</jstl-version>
 		<mysql-connector-version>8.0.11</mysql-connector-version>
 		<mariadb-connector-version>2.4.2</mariadb-connector-version>
